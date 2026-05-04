@@ -9,9 +9,6 @@
 [![Makefile](https://img.shields.io/badge/Makefile-Supported-green)](https://www.gnu.org/software/make/)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20WSL-blue)]()
 
-[![Stars](https://img.shields.io/github/stars/yourname/Systems_Stack_C-CPP-Embedded?style=social)](https://github.com/yourname/Systems_Stack_C-CPP-Embedded/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourname/Systems_Stack_C-CPP-Embedded?style=social)](https://github.com/yourname/Systems_Stack_C-CPP-Embedded/network/members)
-
 ---
 
 ##  About This Repository
